@@ -50,10 +50,10 @@ I authored the following SDKs, starting from very rough drafts from developers.
 
 [Control Portal User Guide](https://support.limelight.com/public/en/Content/Control/Control%20Portal%20-%20User%20Guide/User%20Guide%20Pages/Control%20Portal%20User%20Guide.htm?tocpath=Control%7CUser%20Guide%7C_____0)
 
-    Upon inheriting this document, I converted it from narrative format to task-based and enhanced it by adding screenshots. I created a standard outline for the Reports section, which made it easy to add new report capabilities.
+Upon inheriting this document, I converted it from narrative format to task-based and enhanced it by adding screenshots. I created a standard outline for the Reports section, which made it easy to add new report capabilities.
 
 ### Knowledge article
 
-    I authored this article using markdown. I did extensive research and invoked GraphQL queries to understand the subject matter and clearly document it.
+I authored this article using markdown. I did extensive research and invoked GraphQL queries to understand the subject matter and clearly document it.
 
 [GraphQL Knowledge Base Article](https://docs.layer0.co/guides/what_is_graphql)

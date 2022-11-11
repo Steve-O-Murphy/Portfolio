@@ -26,6 +26,8 @@ I authored the following content using MadCap Flare. I invoked each API to ensur
 
     The content API allows customers to perform many actions, such as uploading media and creating playlists. I inherited this information and contributed large amounts of content. I transformed the format to a standard structure with tables and drop-down arrows.
 
+    Actual API reference informaiton begins at [API Requests - Query](https://support.limelight.com/public/video/en/Default.htm#Video/Video%20-%20Platform/Guide/content_api.htm#3.0)
+
 * [Video Analytics API Developers Reference](https://support.limelight.com/public/video/en/Default.htm#Video/Video%20-%20Platform/Guide/analytics_api.htm)
 
     The Analytics API provides insight into viewership metrics, such as the total number of times a video was viewed. I wrote this information from scratch.

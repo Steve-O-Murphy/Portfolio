@@ -2,7 +2,10 @@
 
 I put much effort my documentation, following technical writer best practices and using crisp, clear language. The professional results are always worth the effort. I always conduct subject matter expert and peer reviews on my content.
 
-## Steyer Content (current employer)
+## Netspend (current employer)
+I create and maintain documentation for Netspend's REST API. I also contribute to the style guide.
+
+## Steyer Content 
 
 ### Amazon OpenSearch APIs
 

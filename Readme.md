@@ -3,7 +3,7 @@
 I put much effort my documentation, following technical writer best practices and using crisp, clear language. The professional results are always worth the effort. I always conduct subject matter expert and peer reviews on my content.
 
 ## Netspend (current employer)
-I create and maintain documentation for Netspend's REST API. I also contribute to the style guide.
+I create and maintain documentation for Netspend's REST API. I also contribute to the style guide. Here is a link to an API document I created: https://github.com/Steve-O-Murphy/Portfolio/blob/main/Netspend%20API%201.3.0%20Reference_%20Restrictions.pdf
 
 ## Steyer Content 
 

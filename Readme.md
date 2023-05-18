@@ -62,3 +62,9 @@ Upon inheriting this document, I converted it from narrative format to task-base
 I authored this article using markdown. I did extensive research and invoked GraphQL queries to understand the subject matter and clearly document it.
 
 [GraphQL Knowledge Base Article](https://docs.layer0.co/guides/what_is_graphql)
+
+## Illustrations
+
+I make beautiful illustrations to simplify complex material.
+
+[Sample](https://docs.layer0.co/guides/traffic_splitting)

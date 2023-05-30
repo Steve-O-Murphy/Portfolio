@@ -57,6 +57,10 @@ I authored the following SDKs, starting from very rough drafts from developers.
 
 Upon inheriting this document, I converted it from narrative format to task-based and enhanced it by adding screenshots. I created a standard outline for the Reports section, which made it easy to add new report capabilities.
 
+### Frequently Asked Questions
+
+I created and maintained [Frequently Asked Questions](https://support.limelight.com/public/en/Default.htm#Video/Video%20-%20Platform/FAQ/FAQs.htm?TocPath=Video%257C_____3) (FAQs) for the Video Platform.
+
 ### Knowledge article
 
 I authored this article using markdown. I did extensive research and invoked GraphQL queries to understand the subject matter and clearly document it.

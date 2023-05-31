@@ -5,7 +5,7 @@ I put much effort my documentation, following technical writer best practices an
 ## Contract Technical Writer at Netspend, Austin, Texas
 I created and maintained documentation for Netspend's REST API. I also contributed to the style guide. 
 
-Here is a sample [API document]([https://github.com/Steve-O-Murphy/Portfolio/blob/main/Netspend%20API%201.3.0%20Reference_%20Restrictions.pdf](https://github.com/Steve-O-Murphy/Portfolio/blob/main/API_Reference_%20Restrictions.pdf)) that I wrote.
+Here is a sample [API document]([https://github.com/Steve-O-Murphy/Portfolio/blob/main/Netspend%20API%201.3.0%20Reference_%20Restrictions.pdf](https://github.com/Steve-O-Murphy/Portfolio/blob/main/API_Reference_%20Restrictions.pdf) that I wrote.
 
 I created [this OAuth blog article](https://github.com/Steve-O-Murphy/Portfolio/blob/main/OAuth%20%20Blog%20Article-Part-1.pdf).
 

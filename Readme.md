@@ -3,7 +3,11 @@
 I put much effort my documentation, following technical writer best practices and using crisp, clear language. The professional results are always worth the effort. I always conduct subject matter expert and peer reviews on my content.
 
 ## Contract Technical Writer at Netspend, Austin, Texas
-I create and maintain documentation for Netspend's REST API. I also contribute to the style guide. Here is a link to an API document I created: https://github.com/Steve-O-Murphy/Portfolio/blob/main/Netspend%20API%201.3.0%20Reference_%20Restrictions.pdf
+I created and maintained documentation for Netspend's REST API. I also contributed to the style guide. 
+
+Here an [API document](https://github.com/Steve-O-Murphy/Portfolio/blob/main/Netspend%20API%201.3.0%20Reference_%20Restrictions.pdf).
+
+I created [this blog article](https://github.com/Steve-O-Murphy/Portfolio/blob/main/OAuth%20%20Blog%20Article-Part-1.pdf) on OAuth.
 
 ## Contract Technical Writer at Amazon, Seattle, Washington
 

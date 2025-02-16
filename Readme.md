@@ -68,4 +68,4 @@ Upon inheriting this document, I converted it from narrative format to task-base
 
 ### GraphQL Knowledge article
 
-I authored the article using markdown. I did extensive research and invoked GraphQL queries to understand the subject matter and clearly document it.
+I authored the article using markdown. I did extensive research and invoked GraphQL queries to understand the subject matter and clearly document it. A PDF is available in the file list at the top of this page.

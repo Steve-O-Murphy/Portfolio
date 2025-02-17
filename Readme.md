@@ -44,7 +44,7 @@ I authored the following content using MadCap Flare. I invoked each API to ensur
 
 * Video Analytics API Developers Reference
 
-    The Analytics API provides insight into viewership metrics, such as the total number of times a video was viewed. I wrote this information from scratch. A PDF is available in the file list at the top of this page.
+    The Analytics API provides insight into viewership metrics, such as the total number of times a video was viewed. I wrote this information from scratch. 
 
 * Storage API Reference Guide
 
@@ -54,7 +54,7 @@ I authored the following content using MadCap Flare. I invoked each API to ensur
 
 I authored the following SDKs documents, starting from very rough drafts from developers.
 
-I do not have the documents.
+**Note:** I do not have copies of these documents.
 
 * Realtime Streaming Android SDK Quick Start
 
@@ -68,8 +68,8 @@ I do not have the documents.
 
 Control User Guide
 
-Upon inheriting this document, I converted it from narrative format to task-based instructions and enhanced it by adding screenshots. I created a standard outline for the Reports section, which made it easy to add new report capabilities.  A PDF is available in the file list at the top of this page.
+Upon inheriting this document, I converted it from narrative format to task-based instructions and enhanced it by adding screenshots. I created a standard outline for the Reports section, which made it easy to add new report capabilities.  
 
 ### GraphQL Knowledge article
 
-I authored the article using markdown. I did extensive research and invoked GraphQL queries to understand the subject matter and clearly document it. A PDF is available in the file list at the top of this page.
+I authored the article using markdown. I did extensive research and invoked GraphQL queries to understand the subject matter and clearly document it. 

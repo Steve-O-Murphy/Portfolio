@@ -32,7 +32,7 @@ I invoked each API to ensure information accuracy. I pushed the content to the O
 
 ## Edgio
 
-**Note:** In November 2024, Edgio declared bankruptcy under Chapter 11 bankruptcy protection. The following documents, formerly accessible on Edgio's public web site, are available only on this GitHub page.
+**Note:** In November 2024, Edgio declared bankruptcy under Chapter 11 bankruptcy protection. The following documents, formerly accessible on Edgio's public web site, are available only on this GitHub page except where noted.
 
 I authored the following content using MadCap Flare. I invoked each API to ensure information accuracy. 
 
@@ -40,7 +40,9 @@ I authored the following content using MadCap Flare. I invoked each API to ensur
 
 * Video Content API Developers Reference
 
-    The content API allows customers to perform many actions, such as uploading media and creating playlists. I inherited this information and contributed large amounts of content. I transformed the format to a standard structure with tables and drop-down arrows.
+    The content API allows customers to perform many actions, such as uploading media and creating playlists. I inherited this information and contributed large amounts of content. 
+
+    **Note:** I do not have a copy of this document.
 
 * Video Analytics API Developers Reference
 

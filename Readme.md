@@ -3,15 +3,17 @@
 I put much effort my documentation, following technical writer best practices and using crisp, clear language. The professional results are always worth the effort. I always conduct subject matter expert and peer reviews on my content.
 
 ## SiriusXM
+
 In my role as technical writer I:
 
-* Create and maintain REST API documentation for the radio client. I create the documentation by hand-coding JSON in a pre-determined format.
+* Create and maintain REST API documentation for the in-vehicle radio client. I create the documentation by hand-coding JSON in an internal SiriusXM format.
 
-* Participate in developer-level documentation tasks that require research in the extensive code base and writing up content in our Confluence pages. 
+* Participate in developer-level documentation projects that require research in the extensive code base, then author the needed content in Confluence pages. 
 
 * Assist other teams as needed, usually doing research in the code base so the teams can focus on development work.
 
 ## Netspend
+
 I created and maintained documentation for Netspend's REST API. I also contributed to the style guide and participated in group documentation efforts. My co-workers were located in India so in essence we provided round-the-clock documentation support.
 
 ## Steyer Content 
@@ -30,7 +32,7 @@ I invoked each API to ensure information accuracy. I pushed the content to the O
 
 ## Edgio
 
-**Note:** In November 2024, Edgio declared bankruptcy under Chapter 11 bankruptcy protection. Except where noted, the following documents, formerly accessible to the public, are no longer available so no links are provided.
+**Note:** In November 2024, Edgio declared bankruptcy under Chapter 11 bankruptcy protection. The following documents, formerly accessible on Edgio's public web site, are available only on this GitHub page.
 
 I authored the following content using MadCap Flare. I invoked each API to ensure information accuracy. 
 
@@ -46,11 +48,13 @@ I authored the following content using MadCap Flare. I invoked each API to ensur
 
 * Storage API Reference Guide
 
-    The Storage API allows developers to perform actions such as uploading content to the Cloud Storage platform. I transformed this information from a 15-page Word document to beautiful HTML and PDF format with syntax highlighting and code samples.  A PDF is available in the file list at the top of this page.
+    The Storage API allows developers to perform actions such as uploading content to the Cloud Storage platform. I transformed this information from a 15-page Word document to beautiful HTML and PDF format with syntax highlighting and code samples. Except where noted, PDFs are available in the file list at the top of this page.
 
 ### SDK documentation
 
-I authored the following SDKs documents, starting from very rough drafts from developers. 
+I authored the following SDKs documents, starting from very rough drafts from developers.
+
+I do not have the documents.
 
 * Realtime Streaming Android SDK Quick Start
 

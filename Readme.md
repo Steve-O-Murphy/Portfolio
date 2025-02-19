@@ -18,9 +18,9 @@ I created and maintained documentation for Netspend's REST API. I also contribut
 
 I made large contributions to the Netspend developer documentation.
 
-[Netspend API Developer Documentation(https://docs.developer.netspend.com/)]
+[Netspend API Developer Documentation](https://docs.developer.netspend.com/)
 
-I dedicated much time to editing the [API YAML Specification (https://docs.developer.netspend.com/openapi/64b827157f32310023e502f6)], ensuring consistent descriptions and enforcing writing best practices.
+I dedicated much time to editing the [API YAML Specification](https://docs.developer.netspend.com/openapi/64b827157f32310023e502f6), ensuring consistent descriptions and enforcing writing best practices.
 
 
 ## Steyer Content 

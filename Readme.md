@@ -24,7 +24,6 @@ I made large contributions to the [Netspend API Developer Documentation](https:/
 
 * The [Restrictions API](https://docs.developer.netspend.com/reference/restrictions-1)
 
-
 I dedicated significant portions of time editing the [API YAML Specification](https://docs.developer.netspend.com/openapi/64b827157f32310023e502f6), ensuring consistent descriptions and enforcing writing best practices.
 
 

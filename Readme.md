@@ -16,11 +16,9 @@ In my role as technical writer I:
 
 I created and maintained documentation for Netspend's REST API. I also contributed to the style guide and participated in group documentation efforts. My co-workers were located in India so in essence we provided round-the-clock documentation support. 
 
-I made large contributions to the Netspend developer documentation.
+I made large contributions to the [Netspend API Developer Documentation](https://docs.developer.netspend.com/).
 
-[Netspend API Developer Documentation](https://docs.developer.netspend.com/)
-
-I dedicated much time to editing the [API YAML Specification](https://docs.developer.netspend.com/openapi/64b827157f32310023e502f6), ensuring consistent descriptions and enforcing writing best practices.
+I dedicated significant portions of time editing the [API YAML Specification](https://docs.developer.netspend.com/openapi/64b827157f32310023e502f6), ensuring consistent descriptions and enforcing writing best practices.
 
 
 ## Steyer Content 

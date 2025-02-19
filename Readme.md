@@ -61,7 +61,7 @@ I authored the following content using MadCap Flare. I invoked each API to ensur
 
 * Storage API Reference Guide
 
-    The Storage API allows developers to perform actions such as uploading content to the Cloud Storage platform. I transformed this information from a 15-page Word document to beautiful HTML and PDF format with syntax highlighting and code samples. Except where noted, PDFs are available in the file list at the top of this page.
+    The Storage API allows developers to perform actions such as uploading content to the Cloud Storage platform. I transformed this information from a 15-page Word document to beautiful HTML and PDF format with syntax highlighting and code samples.
 
 ### SDK documentation
 

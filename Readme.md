@@ -16,13 +16,15 @@ In my role as technical writer I:
 
 I created and maintained documentation for Netspend's REST API. I also contributed to the style guide and participated in group documentation efforts. My co-workers were located in India so in essence we provided round-the-clock documentation support. 
 
-I made large contributions to the [Netspend API Developer Documentation](https://docs.developer.netspend.com/), specifically these sections:
+I made large contributions to the API Developer Documentation, specifically this information:
 
-* [Creating an Account](https://docs.developer.netspend.com/docs/create-an-account-on-the-developer-portal)
+* [Netspend API Quick Start](https://docs.developer.netspend.com/docs/getting-started-with-the-netspend-api)
 
 * The [Netspend SDK Guide](https://docs.developer.netspend.com/docs/sample-scenarios)
 
 * The [Restrictions API](https://docs.developer.netspend.com/reference/restrictions-1)
+
+* The [Transactions API](https://docs.developer.netspend.com/reference/transactions-1)
 
 I dedicated significant portions of time editing the [API YAML Specification](https://docs.developer.netspend.com/openapi/64b827157f32310023e502f6), ensuring consistent descriptions and enforcing writing best practices.
 

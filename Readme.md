@@ -18,7 +18,7 @@ I created and maintained documentation for Netspend's REST API. I also contribut
 
 I made large contributions to the API Developer Documentation, specifically this information:
 
-* [Netspend API Quick Start](https://docs.developer.netspend.com/docs/getting-started-with-the-netspend-api)
+* The [Netspend API Quick Start](https://docs.developer.netspend.com/docs/getting-started-with-the-netspend-api)
 
 * The [Netspend SDK Guide](https://docs.developer.netspend.com/docs/sample-scenarios)
 

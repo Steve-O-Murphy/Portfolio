@@ -20,8 +20,6 @@ I made large contributions to the API Developer Documentation, specifically this
 
 * The [Netspend API Quick Start](https://docs.developer.netspend.com/docs/getting-started-with-the-netspend-api)
 
-* The [Netspend SDK Guide](https://docs.developer.netspend.com/docs/sample-scenarios)
-
 * The [Restrictions API](https://docs.developer.netspend.com/reference/restrictions-1)
 
 * The [Transactions API](https://docs.developer.netspend.com/reference/transactions-1)

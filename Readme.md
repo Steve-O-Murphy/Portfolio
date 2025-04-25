@@ -14,7 +14,7 @@ In my role as technical writer I:
 
 ## Netspend
 
-I created and maintained documentation for Netspend's REST API^*^. I also contributed to the style guide and participated in group documentation efforts. My co-workers were located in India so in essence we provided round-the-clock documentation support. 
+I created and maintained documentation for Netspend's REST API*. I also contributed to the style guide and participated in group documentation efforts. My co-workers were located in India so in essence we provided round-the-clock documentation support. 
 
 I made large contributions to the API Developer Documentation, including this information:
 
@@ -26,7 +26,7 @@ Transactions API
 
 I dedicated significant portions of time editing the API YAML Specification applying consistent descriptions and implementing writing best practices.
 
-^*^Netspend was acquired by Global Payments and the documentation I created is no longer available online.
+*Netspend was acquired by Global Payments and the documentation I created is no longer available online.
 
 
 ## Steyer Content 

@@ -14,17 +14,19 @@ In my role as technical writer I:
 
 ## Netspend
 
-I created and maintained documentation for Netspend's REST API. I also contributed to the style guide and participated in group documentation efforts. My co-workers were located in India so in essence we provided round-the-clock documentation support. 
+I created and maintained documentation for Netspend's REST API^*^. I also contributed to the style guide and participated in group documentation efforts. My co-workers were located in India so in essence we provided round-the-clock documentation support. 
 
 I made large contributions to the API Developer Documentation, including this information:
 
-* The [Netspend API Quick Start](https://docs.developer.netspend.com/docs/getting-started-with-the-netspend-api)
+* The Netspend API Quick Start
 
-* The [Restrictions API](https://docs.developer.netspend.com/reference/restrictions-1)
+* Restrictions API
 
-* The [Transactions API](https://docs.developer.netspend.com/reference/transactions-1)
+Transactions API
 
-I dedicated significant portions of time editing the [API YAML Specification](https://docs.developer.netspend.com/openapi/64b827157f32310023e502f6), ensuring consistent descriptions and enforcing writing best practices.
+I dedicated significant portions of time editing the API YAML Specification applying consistent descriptions and implementing writing best practices.
+
+^*^Netspend was acquired by Global Payments and the documentation I created is no longer available online.
 
 
 ## Steyer Content 

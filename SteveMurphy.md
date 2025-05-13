@@ -70,4 +70,4 @@ I developed these sample applications:
   - Tables in Readme.io format.
   - Tables in SiriusXM's proprietary JSON format.
 - A MadCap Flare plugin that converts selected text to all upper, all  lower, and title case.
-- A C# Application that creates HTML release notes files in Edgio's standard format. Uses the Jira REST API. Files can be easily added to a MadCap Flare project.
+- A C#/Jira REST API Application that creates HTML release notes files in Edgio's standard format. Files can be easily added to a MadCap Flare project.

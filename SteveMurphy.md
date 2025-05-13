@@ -61,13 +61,13 @@ All cURL and Python samples in the [Origin Storage API](/samples/Storage API Ref
 
 ## Sample Applications
 
-- I developed these sample applications:
+I developed these sample applications:
 - A JQuery UI application that uploads a file to Edgio's Storage Platform
 - A PHP application that demonstrates 
 
 ## Automation Tools
-
-- JQuery UI application that creates tables in Readme.io format.
-- JQuery UI application that creates tables in SiriusXM's proprietary JSON format.
+- JQuery UI applications that create:
+  - Tables in Readme.io format.
+  - Tables in SiriusXM's proprietary JSON format.
 - A MadCap Flare plugin that converts selected text to all upper, all  lower, and title case.
 - A C# Application that creates HTML release notes files in Edgio's standard format. Uses the Jira REST API. Files can be easily added to a MadCap Flare project.

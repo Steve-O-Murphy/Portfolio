@@ -38,12 +38,13 @@ Android and iOS Realtime Streaming Guides
 ## Authoring Tools
 
 - Confluence
-- Jekyll Static-Site Generator
-- Markdown
-- Readme.io
-- OpenAPI Specification
 - Hand-coded HTML and CSS
-
+- Jekyll Static-Site Generator
+- LucidChart
+- Markdown
+- OpenAPI Specification
+- PlantUML
+- Readme.io
 
 ## Languages and IDEs
 - C#

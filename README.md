@@ -8,8 +8,8 @@ Technical Writer | Automation Specialist
 ## Summary
 
 - Senior technical writer with a love of technology and a passion for excellence and customer success.
-- Eager to learn new software frameworks.
 - Relationship builder and conflict manager.
+- Cross-team collaborator.
 
 ## Writing Samples
 
@@ -28,6 +28,7 @@ Android and iOS Realtime Streaming Guides
 
 - [Control User Guide](/samples/Control_User_Guide.pdf)
 - [MMD Live Streaming Guide](/samples/MMD_Live_Streaming_Guide_v3.0.pdf)
+- [Storage Management Console](/samples/Storage_Management_Console_User_Guide.pdf)
 
 ## Knowledge Articles
 
@@ -67,9 +68,9 @@ I developed these sample applications:
 - A PHP application that demonstrates 
 
 ## Automation Tools
-- JQuery UI applications that create:
-  - Tables in Readme.io format.
-  - Tables in SiriusXM's proprietary JSON format.
+- JQuery UI applications that create tables in:
+  - Readme.io format.
+  - SiriusXM's proprietary JSON format.
 - A MadCap Flare plugin that converts selected text to all upper, all  lower, and title case.
 - A C#/Jira REST API Application that creates HTML release notes files in Edgio's standard format. Files can be easily added to a MadCap Flare project.
 

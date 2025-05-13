@@ -1,5 +1,5 @@
 # Steve Murphy
-Technical Writer | Sample Code Developer | Sample Application Engineer | Automation Specialist
+Technical Writer | Automation Specialist
 
 [LinkedIn Profile](https://www.linkedin.com/in/stevemurphy1/) | [Samples](#writing-samples) | [Tools](#documentation-tools) | [Skills](#core-skills) | [Achievements](#key-achievements) | [Education](#education)
 
@@ -9,7 +9,7 @@ Technical Writer | Sample Code Developer | Sample Application Engineer | Automat
 
 - Senior technical writer with a love of technology and a passion for excellence and customer success.
 - Eager to learn new software frameworks.
-- Excel at building relationships and managing conflict.
+- Relationship builder and conflict manager.
 
 ## Writing Samples
 
@@ -17,8 +17,8 @@ Technical Writer | Sample Code Developer | Sample Application Engineer | Automat
 
 - [Restrictions API](/samples/API_Reference_Restrictions.pdf)
 - [SmartPurge API](/samples/SmartPurge_REST_API_User_Guide.pdf)
-- [Origin Storage API](/samples/Storage API Reference Guide.pdf)
-- [Video Content API Developers Reference](/samples/Video Analytics API Developers Reference.pdf)
+- [Origin Storage API](/samples/Storage_API_Reference_Guide.pdf)
+- [Video Content API Developers Reference](/samples/Video_Analytics_API_Developers_Reference.pdf)
 
 ### SDK Guides
 
@@ -26,13 +26,13 @@ Android and iOS Realtime Streaming Guides
 
 ### User Guides
 
-- [Control User Guide](/samples/Control User Guide.pdf)
+- [Control User Guide](/samples/Control_User_Guide.pdf)
 - [MMD Live Streaming Guide](/samples/MMD_Live_Streaming_Guide_v3.0.pdf)
 
 ## Knowledge Articles
 
 - [GraphQL](/samples/GraphQL.pdf)
-- [OAuth](/samples/OAuth Blog Article-Part-1.pdf)
+- [OAuth](/samples/OAuth_Blog_Article-Part-1.pdf)
 
 
 ## Authoring Tools
@@ -58,7 +58,7 @@ Android and iOS Realtime Streaming Guides
 
 ## Sample Code
 
-All cURL and Python samples in the [Origin Storage API](/samples/Storage API Reference Guide.pdf)
+All cURL and Python samples in the [Origin Storage API](/samples/Storage_API_Reference_Guide.pdf)
 
 ## Sample Applications
 

@@ -11,30 +11,63 @@ Technical Writer | Sample Code Developer | Sample Application Engineer | Automat
 - Eager to learn new software frameworks.
 - Excel at building relationships and managing conflict.
 
-## Writing samples
+## Writing Samples
 
 ### API Guides
-- [Restrictions API](/files/API_Reference_Restrictions.pdf)
-- [SmartPurge API](/files/SmartPurge_REST_API_User_Guide.pdf)
-- [Origin Storage API](/files/Storage API Reference Guide.pdf)
-- [Video Content API Developers Reference](/files/Video Analytics API Developers Reference.pdf)
+
+- [Restrictions API](/samples/API_Reference_Restrictions.pdf)
+- [SmartPurge API](/samples/SmartPurge_REST_API_User_Guide.pdf)
+- [Origin Storage API](/samples/Storage API Reference Guide.pdf)
+- [Video Content API Developers Reference](/samples/Video Analytics API Developers Reference.pdf)
 
 ### SDK Guides
+
 Android and iOS Realtime Streaming Guides
 
 ### User Guides
-[Control User Guide](/files/Control User Guide.pdf)
-[MMD Live Streaming Guide](/files/MMD_Live_Streaming_Guide_v3.0.pdf)
+
+- [Control User Guide](/samples/Control User Guide.pdf)
+- [MMD Live Streaming Guide](/samples/MMD_Live_Streaming_Guide_v3.0.pdf)
+
+## Knowledge Articles
+
+- [GraphQL](/samples/GraphQL.pdf)
+- [OAuth](/samples/OAuth Blog Article-Part-1.pdf)
+
+
+## Authoring Tools
+
+- Confluence
+- Jekyll Static-Site Generator
+- Markdown
+- Readme.io
+- OpenAPI Specification
+- Hand-coded HTML and CSS
+
+
+## Languages and IDEs
+- C#
+- Eclipse
+- IntelliJ
+- Java
+- Google Apps Script
+- PyCharm
+- Python
+- cURL
 
 ## Sample Code
-All cURL and Python samples in the [Origin Storage API](/files/Storage API Reference Guide.pdf)
+
+All cURL and Python samples in the [Origin Storage API](/samples/Storage API Reference Guide.pdf)
 
 ## Sample Applications
-I developed these sample applications:
-A JQuery UI application that uploads a file to Edgio's Storage Platform
+
+- I developed these sample applications:
+- A JQuery UI application that uploads a file to Edgio's Storage Platform
+- A PHP application that demonstrates 
 
 ## Automation Tools
-JQuery UI application that creates tables in Readme.io format.
-JQuery UI application that creates tables in SiriusXM's proprietary JSON format.
-A MadCap Flare plugin that converts selected text to all upper, all  lower, and title case.
-A C# Application that creates HTML release notes files in Edgio's standard format. Can be easily copied into a MadCap Flare project. Uses the Jira REST API.
+
+- JQuery UI application that creates tables in Readme.io format.
+- JQuery UI application that creates tables in SiriusXM's proprietary JSON format.
+- A MadCap Flare plugin that converts selected text to all upper, all  lower, and title case.
+- A C# Application that creates HTML release notes files in Edgio's standard format. Uses the Jira REST API. Files can be easily added to a MadCap Flare project.

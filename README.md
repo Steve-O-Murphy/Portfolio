@@ -1,7 +1,7 @@
 # Steve Murphy
 Technical Writer | Automation Specialist
 
-[LinkedIn Profile](https://www.linkedin.com/in/stevemurphy1/) | [Samples](#writing-samples) | [Applications, Tools, Sample Code](#sample-applications) | [Achievements](#key-accomplishments) | [Education](#education)
+[LinkedIn Profile](https://www.linkedin.com/in/stevemurphy1/) | [Writing Samples](#writing-samples) | [Technical Skills](#technical-skills) |[Applications, Tools, Sample Code](#sample-applications) | [Achievements](#key-accomplishments) | [Education](#education) | [Recommendations](#professional-recommendations)
 
 ---
 
@@ -35,19 +35,20 @@ Android and iOS Realtime Streaming Guides
 - [GraphQL](/samples/GraphQL.pdf)
 - [OAuth](/samples/OAuth_Blog_Article-Part-1.pdf)
 
+## Technical Skills
 
-## Authoring
+### Authoring
 
-- Confluence
 - Hand-coded HTML and CSS
 - Jekyll Static-Site Generator
 - LucidChart
+- MadCap Flare
 - Markdown
 - OpenAPI Specification
 - PlantUML
 - Readme.io
 
-## Languages and IDEs
+### Languages and IDEs
 - C#
 - cURL
 - Eclipse
@@ -57,23 +58,42 @@ Android and iOS Realtime Streaming Guides
 - PyCharm
 - Python
 
+### Build Tools
+- Gradle
+- Maven
+- sbt
 
-## Sample Applications
+## Repositories and Issue Trackers
+- Confluence
+- Jira
+
+## Application Development
+
+## Frameworks, Applications, Automation Tools
+
+### Web Application Frameworks
+
+- JQuery/JQuery UI
+- Next.js (hobbyist level)
+- React (hobbyist level)
+
+### Sample Applications
 
 - A JQuery UI application that uploads a file to Edgio's Storage Platform
 - A Python application that demonstrates the Log Delivery Service API
 
-## Automation Tools
+### Automation Tools
 
+- A Java FX/Maven application that reads sbt, Gradle, and Maven dependency trees then transforms data into a format easily pasted into a Google sheet
 - JQuery UI applications that create tables in:
   - Readme.io format.
   - SiriusXM's proprietary JSON format.
 - A MadCap Flare plugin that converts selected text to all upper, all  lower, and title case.
 - A C#/Jira REST API Application that creates HTML release notes files in Edgio's standard format. Files can be easily added to a MadCap Flare project.
 
-## Sample Code
+### Sample Code
 
-All cURL and Python samples in the [Origin Storage API](/samples/Storage_API_Reference_Guide.pdf)
+All cURL and Python samples in the [Origin Storage API Reference Guide](/samples/Storage_API_Reference_Guide.pdf)
 
 
 ## Key Accomplishments
@@ -92,3 +112,5 @@ Software Development Fundamentals,
 Data Structures and Software Design
 Programming for the Web
 
+## Professional Recommendations
+[LinkedIn](https://www.linkedin.com/in/stevemurphy1/details/recommendations/?detailScreenTabIndex=0)

@@ -1,7 +1,7 @@
 # Steve Murphy
 Technical Writer | Automation Specialist
 
-[LinkedIn Profile](https://www.linkedin.com/in/stevemurphy1/) | [Writing Samples](#writing-samples) | [Technical Skills](#technical-skills) |[Applications, Tools, Sample Code](#sample-applications) | [Accomplishments](#key-accomplishments) | [Education](#education) | [Recommendations](#professional-recommendations)
+[LinkedIn Profile](https://www.linkedin.com/in/stevemurphy1/) | [Writing Samples](#writing-samples) | [Technical Skills](#technical-skills) |[Applications, Tools, Sample Code](#sample-applications) | [Achievements](#key-achievements) | [Education](#education) | [Recommendations](#professional-recommendations)
 
 ---
 

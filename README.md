@@ -1,7 +1,7 @@
 # Steve Murphy
 Technical Writer | Automation Specialist
 
-[LinkedIn Profile](https://www.linkedin.com/in/stevemurphy1/) | [Writing Samples](#writing-samples) | [Technical Skills](#technical-skills) |[Applications, Tools, Sample Code](#sample-applications) | [Achievements](#key-accomplishments) | [Education](#education) | [Recommendations](#professional-recommendations)
+[LinkedIn Profile](https://www.linkedin.com/in/stevemurphy1/) | [Writing Samples](#writing-samples) | [Technical Skills](#technical-skills) |[Applications, Tools, Sample Code](#sample-applications) | [Accomplishments](#key-accomplishments) | [Education](#education) | [Recommendations](#professional-recommendations)
 
 ---
 
@@ -82,7 +82,7 @@ Android and iOS Realtime Streaming Guides
 
 ### Automation Tools
 
-- A Java FX/Maven application that reads sbt, Gradle, and Maven dependency trees then transforms data into a format easily pasted into a Google sheet
+- A Java FX/Maven application that reads sbt, Gradle, and Maven dependency trees then distills tree data and transforms it into a format easily pasted into a Google sheet
 - JQuery UI applications that create tables in:
   - Readme.io format.
   - SiriusXM's proprietary JSON format.
@@ -94,7 +94,7 @@ Android and iOS Realtime Streaming Guides
 All cURL and Python samples in the [Origin Storage API Reference Guide](/samples/Storage_API_Reference_Guide.pdf)
 
 
-## Key Accomplishments
+## Key Achievements
 
 - Authored and maintained style guides and processes
 - Improved documentation access and structure

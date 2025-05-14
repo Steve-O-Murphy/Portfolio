@@ -63,13 +63,11 @@ Android and iOS Realtime Streaming Guides
 - Maven
 - sbt
 
-## Repositories and Issue Trackers
+### Repositories and Issue Trackers
 - Confluence
 - Jira
 
 ## Application Development
-
-## Frameworks, Applications, Automation Tools
 
 ### Web Application Frameworks
 

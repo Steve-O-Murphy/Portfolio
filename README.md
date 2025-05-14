@@ -22,7 +22,8 @@ Technical Writer | Automation Specialist
 
 ### SDK Guides
 
-Android and iOS Realtime Streaming Guides
+- Edgio Realtime Streaming Android and iOS Guides
+- Netspend Andriod, iOS, and HTML Guides
 
 ### User Guides
 
